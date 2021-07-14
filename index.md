@@ -1,11 +1,11 @@
-## Anton Sudirman Portfolio
+## antonsudirman.github.io
 
 ---
 
-<!-- ### Category Name 1  -->
+### Penyelesaian Masalah Mixed Integer Nonlinear Programming (MINLP) Menggunakan Modifikasi Salp Swarm Algorithm (SSA)  -->
 
-[Project 1](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- [Project 1](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 <!-- ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
