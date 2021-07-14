@@ -2,7 +2,7 @@
 
 ---
 
-### Penyelesaian Masalah Mixed Integer Nonlinear Programming (MINLP) Menggunakan Modifikasi Salp Swarm Algorithm (SSA)  -->
+### Penyelesaian Masalah Mixed Integer Nonlinear Programming (MINLP) Menggunakan Modifikasi Salp Swarm Algorithm (SSA)
 
 <!-- [Project 1](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
